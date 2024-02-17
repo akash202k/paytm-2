@@ -1,6 +1,6 @@
-## Paytm Clone Project 
+# Paytm Clone Project 
 
-# features
+## features
 
 * user signup
 * user signin
@@ -8,9 +8,9 @@
 * user check balance
 * user update info
 
-## Tech
+# Tech
 
-# backend
+## backend
 
 * jwt token authentication
 * nodejs
